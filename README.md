@@ -1,4 +1,4 @@
-# Sign Language Recognizer
+# Dog Breed Classifier with CNN
 
 ** TODO **
 1. Synopsis
