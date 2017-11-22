@@ -15,4 +15,4 @@ I also use following libraries: Numpy, scikit-learn, matplotlib, and random
 ## 2. Repo Structure
 
 - `dog_app.html`: Dog Breed Classifier in HTML
-- - `dog_app.ipynb`: Dog Breed Classifier in Jupyter Notebook
+- `dog_app.ipynb`: Dog Breed Classifier in Jupyter Notebook
